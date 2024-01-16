@@ -9,7 +9,7 @@ const about = {
   name: 'Yanamandra Sai Sameer',
   role: 'Fullstack Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "I am Sai Sameer Yanamandra, a Master's student in Computer Science at San Jose State University, graduating in May 2024. With a robust background in programming, cloud technologies, and internships at companies like Arkoz.ai and ScoutBetter, I am actively seeking full-time opportunities where I can contribute and further develop my skills in software development and cloud.",
   resume: 'https://drive.google.com/file/d/1l52YywjhP8e3I9fqQNAsORJfvGFRDkMY/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/saisameery/',
