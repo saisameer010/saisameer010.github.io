@@ -10,10 +10,11 @@ const about = {
   role: 'Fullstack Engineer',
   description:
     "I am Sai Sameer Yanamandra, a Master's student in Computer Science at San Jose State University, graduating in May 2024. With a robust background in programming, cloud technologies, and internships at companies like Arkoz.ai and ScoutBetter, I am actively seeking full-time opportunities where I can contribute and further develop my skills in software development and cloud.",
-  resume: 'https://drive.google.com/file/d/1l52YywjhP8e3I9fqQNAsORJfvGFRDkMY/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1k0i__NE4NmoEvM60RNmOxhFGfYvm1F_6/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/saisameery/',
     github: 'https://github.com/saisameer010',
+    website: 'https://www.saisameery.com',
   },
 }
 
